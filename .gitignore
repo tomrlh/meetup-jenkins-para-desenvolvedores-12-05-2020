@@ -1,0 +1,33 @@
+/mtg-deck-api/HELP.md
+/mtg-deck-api/target/
+/mtg-deck-api/!.mvn/wrapper/maven-wrapper.jar
+/mtg-deck-api/!**/src/main/**
+/mtg-deck-api/!**/src/test/**
+
+### STS ###
+/mtg-deck-api/.apt_generated
+/mtg-deck-api/.classpath
+/mtg-deck-api/.factorypath
+/mtg-deck-api/.project
+/mtg-deck-api/.settings
+/mtg-deck-api/.springBeans
+/mtg-deck-api/.sts4-cache
+
+### IntelliJ IDEA ###
+/mtg-deck-api/.idea
+/mtg-deck-api/*.iws
+/mtg-deck-api/*.iml
+/mtg-deck-api/*.ipr
+
+### NetBeans ###
+/mtg-deck-api//nbproject/private/
+/mtg-deck-api//nbbuild/
+/mtg-deck-api//dist/
+/mtg-deck-api//nbdist/
+/mtg-deck-api//.nb-gradle/
+/mtg-deck-api/build/
+
+### VS Code ###
+/mtg-deck-api/.vscode/
+roteiro.txt
+apresentacao.txt
