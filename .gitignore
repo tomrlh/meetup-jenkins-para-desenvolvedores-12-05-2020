@@ -20,11 +20,11 @@
 /mtg-deck-api/*.ipr
 
 ### NetBeans ###
-/mtg-deck-api//nbproject/private/
-/mtg-deck-api//nbbuild/
-/mtg-deck-api//dist/
-/mtg-deck-api//nbdist/
-/mtg-deck-api//.nb-gradle/
+/mtg-deck-api/nbproject/private/
+/mtg-deck-api/nbbuild/
+/mtg-deck-api/dist/
+/mtg-deck-api/nbdist/
+/mtg-deck-api/.nb-gradle/
 /mtg-deck-api/build/
 
 ### VS Code ###
